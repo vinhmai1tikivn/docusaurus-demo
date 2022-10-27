@@ -10,7 +10,7 @@ const siteConfig = {
   title: "Create Console App",
   tagline: "Set up a modern web app by running one command.",
   url: "https://create-react-app.dev",
-  baseUrl: "/",
+  baseUrl: "docusaurus-demo/",
   projectName: "create-react-app",
   organizationName: "facebook",
   favicon: "img/favicon/favicon.ico",
